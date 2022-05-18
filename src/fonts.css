@@ -1,0 +1,25 @@
+@import '@fontsource/cherry-swash';
+@import '@fontsource/aclonica';
+@import '@fontsource/boogaloo';
+@import '@fontsource/cambay';
+@import '@fontsource/krub';
+
+.cherry-swash {
+    font-family: 'Cherry Swash';
+}
+
+.aclonica {
+    font-family: 'Aclonica';
+}
+
+.boogaloo {
+    font-family: 'Boogaloo';
+}
+
+.cambay {
+    font-family: 'Cambay';
+}
+
+.krub {
+    font-family: 'Krub', sans-serif;
+}

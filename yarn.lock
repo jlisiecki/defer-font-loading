@@ -2,10 +2,35 @@
 # yarn lockfile v1
 
 
+"@fontsource/aclonica@^4.5.7":
+  "integrity" "sha512-fevB2dAbzWRdWnitVT3UopaSxmp/NJLQKskz01xXky5eOiG0LrAJbAvStVdxyJjDi2wKwLG3llcws2vTxG3zMw=="
+  "resolved" "https://registry.npmjs.org/@fontsource/aclonica/-/aclonica-4.5.7.tgz"
+  "version" "4.5.7"
+
+"@fontsource/boogaloo@^4.5.8":
+  "integrity" "sha512-MmSfDLgICAE3urBRD2DcDnsgJ3AExXFc33i0eF5YFRjZIUvO7KKEyQ67qKrzXL14txYYLW7qdtWuO7V4naLgQw=="
+  "resolved" "https://registry.npmjs.org/@fontsource/boogaloo/-/boogaloo-4.5.8.tgz"
+  "version" "4.5.8"
+
+"@fontsource/cambay@^4.5.8":
+  "integrity" "sha512-URhV7USQZUg4hJ8dT6skfbHTo7HJTDQH6HlCA9+3Z6XCfhenml+e7w2HhQEIQk0LFZFZtj0QZNUoh4//P0ZERw=="
+  "resolved" "https://registry.npmjs.org/@fontsource/cambay/-/cambay-4.5.8.tgz"
+  "version" "4.5.8"
+
 "@fontsource/cherry-swash@^4.5.8":
   "integrity" "sha512-24qwOQYv0ksUIi8O924n76DbEh7nzP3HGz5r7rimzxD0VNo2vC+xaa/zqhz1B9nZb3r6T0Xqod2iwNct8lcWbQ=="
   "resolved" "https://registry.npmjs.org/@fontsource/cherry-swash/-/cherry-swash-4.5.8.tgz"
   "version" "4.5.8"
+
+"@fontsource/krub@^4.5.8":
+  "integrity" "sha512-1smyx5VSyxl5Zv3B9h6QnmMfrGTWcNq2Vp9YmD03K6VKvS7W0u8zv344onoxzDhdhRtQKjijFUP/4qf9W7Ax/g=="
+  "resolved" "https://registry.npmjs.org/@fontsource/krub/-/krub-4.5.8.tgz"
+  "version" "4.5.8"
+
+"@popperjs/core@^2.10.2":
+  "integrity" "sha512-9X2obfABZuDVLCgPK9aX0a/x4jaOEweTTWE2+9sr0Qqqevj2Uv5XorvusThmc9XGYpS9yI+fhh8RTafBtGposw=="
+  "resolved" "https://registry.npmjs.org/@popperjs/core/-/core-2.11.5.tgz"
+  "version" "2.11.5"
 
 "anymatch@~3.1.2":
   "integrity" "sha512-P43ePfOAIupkguHUycrc4qJ9kz8ZiuOUijaETwX7THt0Y/GNK7v0aa8rY816xWjZ7rJdA5XdMcpVFTKMq+RvWg=="
@@ -19,6 +44,11 @@
   "integrity" "sha512-jDctJ/IVQbZoJykoeHbhXpOlNBqGNcwXJKJog42E5HDPUwQTSdjCHdihjj0DlnheQ7blbT6dHOafNAiS8ooQKA=="
   "resolved" "https://registry.npmjs.org/binary-extensions/-/binary-extensions-2.2.0.tgz"
   "version" "2.2.0"
+
+"bootstrap@^5.1.3":
+  "integrity" "sha512-fcQztozJ8jToQWXxVuEyXWW+dSo8AiXWKwiSSrKWsRB/Qt+Ewwza+JWoLKiTuQLaEPhdNAJ7+Dosc9DOIqNy7Q=="
+  "resolved" "https://registry.npmjs.org/bootstrap/-/bootstrap-5.1.3.tgz"
+  "version" "5.1.3"
 
 "braces@~3.0.2":
   "integrity" "sha512-b8um+L1RzM3WDSzvhm6gIz1yfTbBt6YTlcEKAvsmqCZZFw46z626lVj9j1yEPW33H5H+lBQpZMP1k8l+78Ha0A=="

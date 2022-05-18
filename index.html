@@ -4,15 +4,23 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Font defer example</title>
-        <style>
-            @import '/src/style.css';
-        </style>
-        <script type="module" src="/src/main.ts" defer></script>
+        <script type="module" src="/src/main.ts" async></script>
+        <link rel="stylesheet" href="/src/style.css" />
     </head>
     <body>
         <div class="container">
-            <h1>Hello fonts!</h1>
-            <p>This is example for defer font loading.</p>
+            <h1 class="cherry-swash">Hello fonts!</h1>
+            <p class="aclonica">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            </p>
+            <p class="boogaloo">
+                Phasellus nisl ex, ultricies id egestas et, tempus sit amet mi.
+            </p>
+            <p class="cambay">Morbi sed molestie lacus.</p>
+            <p class="krub">
+                Morbi posuere tincidunt tellus, ac pellentesque neque egestas
+                id.
+            </p>
         </div>
     </body>
 </html>
