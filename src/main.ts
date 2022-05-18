@@ -17,7 +17,7 @@ const fontsInfo: FontInfo[] = [
     { file: krub, name: 'krub' }
 ];
 
-function deferFont(fontInfo: FontInfo, d: Document) {
+async function deferFont(fontInfo: FontInfo, d: Document) {
     const font = new FontFace(fontInfo.name, `url(${fontInfo.file})`);
     font.load().then(() => {
         (d.fonts as any).add(font);
@@ -29,7 +29,7 @@ function deferFont(fontInfo: FontInfo, d: Document) {
     });
 }
 
-function deferFonts(fontsInfo: FontInfo[], d: Document) {
+async function deferFonts(fontsInfo: FontInfo[], d: Document) {
     for (let fontInfo of fontsInfo) deferFont(fontInfo, d);
 }
 
